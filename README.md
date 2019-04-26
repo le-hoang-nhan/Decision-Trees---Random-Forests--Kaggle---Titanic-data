@@ -3,3 +3,5 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/Decision-Trees---Random-Forest
 
 # Decision-Trees---Random-Forests--Kaggle---Titanic-data
 Predicting with Decision Trees and improving the predictions through Random Forests
+
+(sklearn, tree, DecisionTreeClassifier(), feature_importances_, score, RandomForestClassifier ...)
